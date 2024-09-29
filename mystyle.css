@@ -69,3 +69,11 @@ img{
     border-radius: 70%;
     opacity: 855%;
 }
+a:link, a:visited {
+    background-color: #89a3a5;
+    color: white;
+    padding: 2px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
